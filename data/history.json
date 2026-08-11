@@ -1,1 +1,2 @@
-[]
+[git add .gitignore app.py data/baselines.json data/history.json file_manager.py history.py
+]
