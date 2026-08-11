@@ -1,10 +1,8 @@
 import hashlib
 
 
-def calculate_sha256(file_path):
-    """
-    Calculate and return the SHA-256 hash of a file.
-    """
+def calculate_file_hash(file_path):
+    """Calculate and return the SHA-256 hash of a file."""
 
     sha256_hash = hashlib.sha256()
 
