@@ -1,6 +1,6 @@
 # Project Sentinel
 
-Project Sentinel is a Python-based file integrity monitoring system that uses SHA-256 cryptographic hashing to detect unauthorized or unexpected file modifications.
+Project Sentinel is a Python-based file integrity monitoring system that uses SHA-256 cryptographic hashing to detect file modifications.
 
 ## Overview
 
