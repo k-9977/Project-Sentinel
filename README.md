@@ -6,7 +6,7 @@ Project Sentinel is a Python-based file integrity monitoring system that uses SH
 
 File integrity is an important part of cybersecurity. If a file is modified unexpectedly, an integrity monitoring system should be able to detect the change.
 
-Project Sentinel creates a trusted cryptographic baseline for a file and later compares the file's current SHA-256 hash against that baseline.
+Project Sentinel creates a SHA-256 hash baseline for a file and later compares the file's current hash against that baseline.
 
 ## How It Works
 
